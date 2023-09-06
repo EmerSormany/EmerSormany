@@ -15,7 +15,7 @@ www.linkedin.com/in/emersonsormany
               ou
     WhatsAPP--> 83 998061924
 
-![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=EmerSormany&theme=dracula&hide_border=true&custom_title=Principais%20%Linguagens)
+<!--![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=EmerSormany&theme=dracula&hide_border=true&custom_title=Principais%20%Linguagens)
 
 
 <!--
