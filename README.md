@@ -2,7 +2,7 @@
 
 Meu nome é Emerson Sormany de Azevedo Costa. Trabalhei durante 6 anos, ao todo, na AeC Contact Center, na qual aprimorei habilidades como comunicação, resolução de problemas, relacionamento interpessoal e gestão de conflitos. Após esse período eu decidi me profissionalizar e entrar na carreira dev.
 
-Estudo programação desde 2020, quando iniciei a graduação em Ciências da Computação pela Estácio, na qual estudei Python, C++, HTML e CSS. Estou me aprofundando em **back-end, que é minha área de atuação**, com o curso de programação com foco em back-end da Cubos Academy, utilizando as tecnologias JavaScript, Node.js, SQL, PostgreSQL, TypeScript, Git, entre outras. Também estudo inglês.
+Estudo programação desde 2020, quando iniciei a graduação em Ciências da Computação pela Estácio, na qual estudei Python, C++, HTML e CSS. Estou me aprofundando em **back-end, que é minha área de atuação**, com o curso de programação com foco em back-end da Cubos Academy, utilizando as tecnologias JavaScript, Node.js, SQL, PostgreSQL, TypeScript, Git, entre outras, e estou aberto a aprender outras linguagens. Também estudo inglês.
 
 #### Hardskills: ⚡Javascript, ⚡Typescript, ⚡Node.js, ⚡SQL e ⚡PostgreeSQL.
 
@@ -15,7 +15,7 @@ www.linkedin.com/in/emersonsormany
               ou
     WhatsAPP--> 83 998061924
 
-![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=EmerSormany)
+![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=EmerSormany&theme=dracula&hide_border=true&custom_title=Principais%20%Linguagens)
 
 
 <!--
