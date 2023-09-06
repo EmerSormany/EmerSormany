@@ -4,9 +4,9 @@ Meu nome é Emerson Sormany de Azevedo Costa. Trabalhei durante 6 anos, ao todo,
 
 Estudo programação desde 2020, quando iniciei a graduação em Ciências da Computação pela Estácio, na qual estudei Python, C++, HTML e CSS. Estou me aprofundando em **back-end, que é minha área de atuação**, com o curso de programação com foco em back-end da Cubos Academy, utilizando as tecnologias JavaScript, Node.js, SQL, PostgreSQL, TypeScript, Git, entre outras. Também estudo inglês.
 
-Hardskills: ⚡Javascript, ⚡Typescript, ⚡Node.js, ⚡SQL e ⚡PostgreeSQL.
+#### Hardskills: ⚡Javascript, ⚡Typescript, ⚡Node.js, ⚡SQL e ⚡PostgreeSQL.
 
-Meus contatos: 
+#### Meus contatos: 
 www.linkedin.com/in/emersonsormany
               ou
     sormanyemerson@gmail.com
