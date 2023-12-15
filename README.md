@@ -9,13 +9,7 @@ Atualmente estou estudando programação orientada a objeto com C# e tenho aulas
 #### Hardskills: ⚡Javascript, ⚡Typescript, ⚡Node.js, ⚡SQL e ⚡PostgreeSQL.
 
 #### Meus contatos: 
-[LinkedIn](www.linkedin.com/in/emersonsormany)
-              ou
-    [Email Pessoal](sormanyemerson@gmail.com)
-              ou
-   [Email Profissional](sormanytrabalho@gmail.com)
-              ou
-    WAPP--> 83 998061924
+[LinkedIn](www.linkedin.com/in/emersonsormany) | sormanyemerson@gmail.com | 83 9 9806-1924 Whatsapp | 84 9 9992-5153 
 
 <!--![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=EmerSormany&theme=dracula&hide_border=true&custom_title=Principais%20%Linguagens)
 
