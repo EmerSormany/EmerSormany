@@ -27,7 +27,7 @@ Atuar como desenvolvedor Backend e permanecer estudando e me aperfeiçoando até
 
 
 #### 📫 Meus contatos: 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-06171E?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emersonsormany/)<a href="mailto:sormanyemerson@gmail.com">![Mail](https://img.shields.io/badge/Gmail-06171E?style=for-the-badge&logo=gmail&logoColor=white)</a>[![WhatsApp](https://img.shields.io/badge/WhatsApp-06171E?style=for-the-badge&logo=whatsapp&logoColor=white)](wa.me/+5583998061924)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-06171E?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emersonsormany/)<a href="mailto:sormanyemerson@gmail.com">![Mail](https://img.shields.io/badge/Gmail-06171E?style=for-the-badge&logo=gmail&logoColor=white)</a>[![WhatsApp](https://img.shields.io/badge/WhatsApp-06171E?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5583998061924)  
 
 
 
