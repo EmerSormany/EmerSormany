@@ -5,7 +5,7 @@
 Meu nome é Emerson Sormany. Trabalhei durante 6 anos como atendente de telemarketing, no qual desenvolvi várias habilidades de comunicação, trabalho em equipe, resolução de problemas e gestão de conflitos. Sou estudante de Ciências da Computação e tenho estudado programação ativamente desde 2023. Desenvolvo soluções Backend com Node.JS e estou estudando programação orientada a objetos com C# e tenho aulas diárias de inglês.
 
 ### 📍 Objetivo:
-Atuar como desenvolvedor Backend e permanecer estudando e me aperfeiçoando até alcançar o nível de um desenvolver Full Cycle.
+Atuar como desenvolvedor Backend e permanecer estudando e me aperfeiçoando até alcançar o nível de um desenvolvedor Full Cycle.
  
 ### ⚡ Habilidades e Ferramentas: 
 
