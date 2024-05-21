@@ -1,5 +1,5 @@
 ### Olá 👋
-<img align="right" alt="GIF" src="https://private-user-images.githubusercontent.com/74038190/241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTYzMDAxNjQsIm5iZiI6MTcxNjI5OTg2NCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjQzNzEtOWQwZmQwYzQtNWM3Zi00MTIyLWI4ODQtNjRhMWUxNjg1ZDJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTIxVDEzNTc0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThiMmU2NThmNWJlY2JhYjBhY2RmOWViNWE5ZjZjZjhmZWE0YjhlYTAyMjE4NjJiNGYyMmIxY2IxYzkzZDA2ZmMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.GX88YnJiWqgzsaBYmk0qYgg6aESlQRJIARQ0mO27jIU" height="380px" width="360px">
+<img align="right" alt="GIF" src="https://private-user-images.githubusercontent.com/74038190/241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTYzMDAxNjQsIm5iZiI6MTcxNjI5OTg2NCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjQzNzEtOWQwZmQwYzQtNWM3Zi00MTIyLWI4ODQtNjRhMWUxNjg1ZDJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTIxVDEzNTc0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThiMmU2NThmNWJlY2JhYjBhY2RmOWViNWE5ZjZjZjhmZWE0YjhlYTAyMjE4NjJiNGYyMmIxY2IxYzkzZDA2ZmMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.GX88YnJiWqgzsaBYmk0qYgg6aESlQRJIARQ0mO27jIU" height="380px" width="330px">
 
 Meu nome é Emerson Sormany. Sou entusiasta de tecnologia e, em minhas pesquisas na internet, conheci a área de Desenvolvimento Web, na qual sou desenvolvedor Backend com Javascript, Typescript, Node.js e PostgreSQL. Atualmente, sou estudante do curso de Sistemas para Internet pelo IFPB - Picuí e estou estudando Frontend com React.
 
@@ -12,7 +12,7 @@ Aceito propostas como Freelancer e CLT.
 ### ⚡ Habilidades e Ferramentas: 
 
 <a target="_blank" rel="noonpener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api/top-langs/?username=EmerSormany&theme=dracula&hide_border=true&custom_title=Principais%20%Linguagens">
- <img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmerSormany&theme=dracula&hide_border=true&custom_title=Principais%20%Linguagens" width="360px">
+ <img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmerSormany&theme=dracula&hide_border=true&custom_title=Principais%20%Linguagens" width="330px">
 </a>
 
 ![Javascript](https://img.shields.io/badge/JavaScript-06171E?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
