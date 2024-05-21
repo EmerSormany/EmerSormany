@@ -5,7 +5,7 @@
 Meu nome é Emerson Sormany. Sou entusiasta de tecnologia e, em minhas pesquisas na internet, conheci a área de Desenvolvimento Web, na qual sou desenvolvedor Backend com Javascript, Typescript, Node.js e PostgreSQL. Atualmente, sou estudante do curso de Sistemas para Internet pelo IFPB - Picuí e estou estudando Frontend com React.
 
 ### 📍 Objetivo:
-Atuar como desenvolvedor Backend e permanecer estudando e me aperfeiçoando até alcançar o nível de um desenvolvedor Full Cycle.
+Contribuir no desenvolvimento de projetos de software escaláveis, atuando como desenvolvedor Backend, Frontend ou Fullstack. Estou comprometido em aprimorar constantemente minhas habilidades e agregar valor aos projetos em que participo.
  
 ### ⚡ Habilidades e Ferramentas: 
 
