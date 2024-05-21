@@ -2,7 +2,7 @@
 <a target="_blank" rel="noonpener noreferrer nofollow" href="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
  <img align="right" alt="GIF" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="360px">
 </a>
-Meu nome é Emerson Sormany. Trabalhei durante 6 anos como atendente de telemarketing, no qual desenvolvi várias habilidades de comunicação, trabalho em equipe, resolução de problemas e gestão de conflitos. Sou estudante de Ciências da Computação e tenho estudado programação ativamente desde 2023. Desenvolvo soluções Backend com Node.JS e estou estudando programação orientada a objetos com C# e tenho aulas diárias de inglês.
+Meu nome é Emerson Sormany. Sou entusiasta de tecnologia e em minhas pesquisas na internet conheci a área de Desenvolvimento Web na qual sou desenvolvedor Backend. Atualmente sou estudante no curso de Sistemas Para Internet pelo IFPB - Picuí e estou estudando Frontend.
 
 ### 📍 Objetivo:
 Atuar como desenvolvedor Backend e permanecer estudando e me aperfeiçoando até alcançar o nível de um desenvolvedor Full Cycle.
