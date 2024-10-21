@@ -15,7 +15,7 @@ Aceito propostas como Freelancer e CLT.
 
 ![Javascript](https://img.shields.io/badge/JavaScript-06171E?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Node.JS](https://img.shields.io/badge/Node%20js-06171E?style=for-the-badge&logo=nodedotjs&logoColor=white)
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--5RiFaM75--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/z19e1lev46xzuv3zdyqa.png" width="60px" />![Express.JS](https://img.shields.io/badge/Express%20js-06171E?style=for-the-badge&logo=express&logoColor=white)
+![Express.JS](https://img.shields.io/badge/Express%20js-06171E?style=for-the-badge&logo=express&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-06171E?style=for-the-badge&logo=npm&logoColor=white)
 ![PostgreeSQL](https://img.shields.io/badge/PostgreSQL-06171E?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-06171E?style=for-the-badge&logo=git&logoColor=white)
